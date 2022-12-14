@@ -1,0 +1,357 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+SUMMARY: First day of full-semester and first-half fall classes
+DTSTART:20220907T000000
+DTEND:20220908T000000
+DTSTAMP:20221214T003153Z
+UID: First day of full-semester and first-half fall classes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Columbus Day (USA)\, Thanksgiving Day (CAN)\, no classes
+DTSTART:20221010T000000
+DTEND:20221011T000000
+DTSTAMP:20221214T003153Z
+UID:Columbus Day (USA)\, Thanksgiving Day (CAN)\, no classes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: First day of final exams for first-half fall classes
+DTSTART:20221017T000000
+DTEND:20221018T000000
+DTSTAMP:20221214T003153Z
+UID: First day of final exams for first-half fall classes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Last day of final exams for first-half fall classes
+DTSTART:20221022T000000
+DTEND:20221023T000000
+DTSTAMP:20221214T003153Z
+UID: Last day of final exams for first-half fall classes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: First day of second-half fall classes
+DTSTART:20221024T000000
+DTEND:20221025T000000
+DTSTAMP:20221214T003153Z
+UID: First day of second-half fall classes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: First day of spring class registration
+DTSTART:20221110T000000
+DTEND:20221111T000000
+DTSTAMP:20221214T003153Z
+UID: First day of spring class registration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veterans' Day (USA)\, Remembrance Day (CAN - Vancouver only)\, no 
+ classes
+DTSTART:20221111T000000
+DTEND:20221112T000000
+DTSTAMP:20221214T003153Z
+UID:Veterans' Day (USA)\, Remembrance Day (CAN - Vancouver only)\, no clas
+ ses
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: First day of Thanksgiving recess\, no classes
+DTSTART:20221123T000000
+DTEND:20221124T000000
+DTSTAMP:20221214T003153Z
+UID: First day of Thanksgiving recess\, no classes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Classes resume
+DTSTART:20221128T000000
+DTEND:20221129T000000
+DTSTAMP:20221214T003153Z
+UID: Classes resume
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Last day of fall classes
+DTSTART:20221210T000000
+DTEND:20221211T000000
+DTSTAMP:20221214T003153Z
+UID: Last day of fall classes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: First day of final exams for full-semester and second-half fall c
+ lasses
+DTSTART:20221212T000000
+DTEND:20221213T000000
+DTSTAMP:20221214T003153Z
+UID: First day of final exams for full-semester and second-half fall class
+ es
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: First day of winter break
+DTSTART:20221218T000000
+DTEND:20221219T000000
+DTSTAMP:20221214T003153Z
+UID: First day of winter break
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Faculty grade deadline at 2:00 p.m. for full-semester and second-
+ half fall classes
+DTSTART:20221219T000000
+DTEND:20221220T000000
+DTSTAMP:20221214T003153Z
+UID: Faculty grade deadline at 2:00 p.m. for full-semester and second-half
+  fall classes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring 2023
+DTSTART:20221219T000000
+DTEND:20221220T000000
+DTSTAMP:20221214T003153Z
+UID:Spring 2023
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: First day of full-semester and first-half spring classes
+DTSTART:20230109T000000
+DTEND:20230110T000000
+DTSTAMP:20221214T003153Z
+UID: First day of full-semester and first-half spring classes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Martin Luther King\, Jr. Day (USA)\, no classes
+DTSTART:20230116T000000
+DTEND:20230117T000000
+DTSTAMP:20221214T003153Z
+UID:Martin Luther King\, Jr. Day (USA)\, no classes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: First day of summer class registration
+DTSTART:20230217T000000
+DTEND:20230218T000000
+DTSTAMP:20221214T003153Z
+UID: First day of summer class registration
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Presidents' Day (USA)\, Family Day (CAN)\, no classes
+DTSTART:20230220T000000
+DTEND:20230221T000000
+DTSTAMP:20221214T003153Z
+UID:Presidents' Day (USA)\, Family Day (CAN)\, no classes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: First day of final exams for first-half spring classes
+DTSTART:20230221T000000
+DTEND:20230222T000000
+DTSTAMP:20221214T003153Z
+UID: First day of final exams for first-half spring classes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Last day of final exams for first-half spring classes
+DTSTART:20230225T000000
+DTEND:20230226T000000
+DTSTAMP:20221214T003153Z
+UID: Last day of final exams for first-half spring classes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: First day of second-half spring classes
+DTSTART:20230227T000000
+DTEND:20230228T000000
+DTSTAMP:20221214T003153Z
+UID: First day of second-half spring classes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: First day of spring break
+DTSTART:20230305T000000
+DTEND:20230306T000000
+DTSTAMP:20221214T003153Z
+UID: First day of spring break
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Classes resume
+DTSTART:20230313T000000
+DTEND:20230314T000000
+DTSTAMP:20221214T003153Z
+UID: Classes resume
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Good Friday (USA - Charlotte only & CAN)\, no classes
+DTSTART:20230407T000000
+DTEND:20230408T000000
+DTSTAMP:20221214T003153Z
+UID:Good Friday (USA - Charlotte only & CAN)\, no classes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: First day of fall class registration for continuing students
+DTSTART:20230407T000000
+DTEND:20230408T000000
+DTSTAMP:20221214T003153Z
+UID: First day of fall class registration for continuing students
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Patriots' Day (USA - Boston only)\, no classes
+DTSTART:20230417T000000
+DTEND:20230418T000000
+DTSTAMP:20221214T003153Z
+UID:Patriots' Day (USA - Boston only)\, no classes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Last day of spring classes
+DTSTART:20230422T000000
+DTEND:20230423T000000
+DTSTAMP:20221214T003153Z
+UID: Last day of spring classes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: First day of final exams for full-semester and second-half spring
+  classes
+DTSTART:20230424T000000
+DTEND:20230425T000000
+DTSTAMP:20221214T003153Z
+UID: First day of final exams for full-semester and second-half spring cla
+ sses
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Last day of final exams for full-semester and second-half spring 
+ classes
+DTSTART:20230429T000000
+DTEND:20230430T000000
+DTSTAMP:20221214T003153Z
+UID: Last day of final exams for full-semester and second-half spring clas
+ ses
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Faculty grade deadline at 9:00 a.m. for full-semester and second-
+ half spring classes
+DTSTART:20230501T000000
+DTEND:20230502T000000
+DTSTAMP:20221214T003153Z
+UID: Faculty grade deadline at 9:00 a.m. for full-semester and second-half
+  spring classes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Spring degree conferral
+DTSTART:20230505T000000
+DTEND:20230506T000000
+DTSTAMP:20221214T003153Z
+UID: Spring degree conferral
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Summer 2023
+DTSTART:20230505T000000
+DTEND:20230506T000000
+DTSTAMP:20221214T003153Z
+UID:Summer 2023
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: First day of summer 1 and full summer classes
+DTSTART:20230508T000000
+DTEND:20230509T000000
+DTSTAMP:20221214T003153Z
+UID: First day of summer 1 and full summer classes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: First day of fall class registration for new students
+DTSTART:20230510T000000
+DTEND:20230511T000000
+DTSTAMP:20221214T003153Z
+UID: First day of fall class registration for new students
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Victoria Day (CAN)\, no classes
+DTSTART:20230522T000000
+DTEND:20230523T000000
+DTSTAMP:20221214T003153Z
+UID:Victoria Day (CAN)\, no classes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memorial Day (USA)\, no classes
+DTSTART:20230529T000000
+DTEND:20230530T000000
+DTSTAMP:20221214T003153Z
+UID:Memorial Day (USA)\, no classes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Last day of summer 1 classes
+DTSTART:20230624T000000
+DTEND:20230625T000000
+DTSTAMP:20221214T003153Z
+UID: Last day of summer 1 classes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: First day of final exams for summer 1 classes
+DTSTART:20230626T000000
+DTEND:20230627T000000
+DTSTAMP:20221214T003153Z
+UID: First day of final exams for summer 1 classes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canada Day observed (CAN)\, no classes
+DTSTART:20230630T000000
+DTEND:20230701T000000
+DTSTAMP:20221214T003153Z
+UID:Canada Day observed (CAN)\, no classes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canada Day (CAN)\, no classes
+DTSTART:20230701T000000
+DTEND:20230702T000000
+DTSTAMP:20221214T003153Z
+UID:Canada Day (CAN)\, no classes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Last day of final exams for summer 1 classes
+DTSTART:20230701T000000
+DTEND:20230702T000000
+DTSTAMP:20221214T003153Z
+UID: Last day of final exams for summer 1 classes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: First day of summer 2 classes
+DTSTART:20230703T000000
+DTEND:20230704T000000
+DTSTAMP:20221214T003153Z
+UID: First day of summer 2 classes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Independence Day (USA)\, no classes
+DTSTART:20230704T000000
+DTEND:20230705T000000
+DTSTAMP:20221214T003153Z
+UID:Independence Day (USA)\, no classes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Civic Holiday (CAN)\, no classes
+DTSTART:20230807T000000
+DTEND:20230808T000000
+DTSTAMP:20221214T003153Z
+UID:Civic Holiday (CAN)\, no classes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Last day of full summer classes
+DTSTART:20230812T000000
+DTEND:20230813T000000
+DTSTAMP:20221214T003153Z
+UID: Last day of full summer classes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: First day of final exams for full summer classes
+DTSTART:20230814T000000
+DTEND:20230815T000000
+DTSTAMP:20221214T003153Z
+UID: First day of final exams for full summer classes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: First day of final exams for summer 2 classes
+DTSTART:20230821T000000
+DTEND:20230822T000000
+DTSTAMP:20221214T003153Z
+UID: First day of final exams for summer 2 classes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Last day of final exams for summer 2 classes
+DTSTART:20230826T000000
+DTEND:20230827T000000
+DTSTAMP:20221214T003153Z
+UID: Last day of final exams for summer 2 classes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Summer degree conferral
+DTSTART:20230831T000000
+DTEND:20230901T000000
+DTSTAMP:20221214T003153Z
+UID: Summer degree conferral
+END:VEVENT
+END:VCALENDAR
