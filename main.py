@@ -54,16 +54,13 @@ def create_calendar(events):
         e = Event()
         e.add('summary', event['summary'])
         # since the date is a string with the format like 'Jan 16 2023 Mon', we
-        # need to convert it to a datetime object
-        e.add('dtstart', datetime.strptime(event['dtstart'], '%b %d %Y %a'))
+        # need to convert it to a date object
+        e.add('dtstart', datetime.strptime(event['dtstart'], '%b %d %Y %a').date())
         # add all day
+        endDate = datetime.strptime(event['dtstart'], '%b %d %Y %a').date() + timedelta(days=1)
         e.add(
-            'dtend',
-            datetime.strptime(
-                event['dtstart'],
-                '%b %d %Y %a') +
-            timedelta(
-                days=1))
+            'dtend', endDate
+            )
         e.add('dtstamp', datetime.now())
         e.add('uid', event['summary'])
         cal.add_component(e)
